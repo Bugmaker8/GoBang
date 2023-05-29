@@ -1,0 +1,14 @@
+debug/chessboard.o
+debug/gameai.o
+debug/gamecontrol.o
+debug/menu.o
+debug/main.o
+debug/netgame.o
+debug/netboard.o
+debug/qrc_picture.o
+debug/moc_chessboard.o
+debug/moc_gameai.o
+debug/moc_gamecontrol.o
+debug/moc_netgame.o
+debug/moc_menu.o
+debug/moc_netboard.o

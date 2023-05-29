@@ -1,0 +1,14 @@
+release/chessboard.o
+release/gameai.o
+release/gamecontrol.o
+release/menu.o
+release/main.o
+release/netgame.o
+release/netboard.o
+release/qrc_picture.o
+release/moc_chessboard.o
+release/moc_gameai.o
+release/moc_gamecontrol.o
+release/moc_netgame.o
+release/moc_menu.o
+release/moc_netboard.o
