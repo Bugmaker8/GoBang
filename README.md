@@ -3,8 +3,8 @@
 		- [ 客户端](#head3)
 		- [ 服务端](#head4)
 	- [ 功能介绍](#head5)
-	- [ 程序预览]（#head6）
-	- [ 程序框架]（#head7）
+	- [ 程序预览](#head6)
+	- [ 程序框架](#head7)
 	- [ TODO](#head8)
 
 ## <span id="head1">Gobang 联机五子棋</span>
@@ -65,13 +65,12 @@ Linux下使用c++编写的并发服务器，为客户端提供服务。
 
 ---
 #### <span id="head7"> 程序框架</span>
-#  程序框架
 
 ![gobang_frame](https://z3.ax1x.com/2021/08/09/f1qTUJ.jpg)
 
 
 ---
-
+#### <span id="head8"> TODO</span>
 ##TODO
 -  使用 Mysql 进行数据存储服务，来完成用户信息的相关功能，如登陆，排名，对局记录等。
 -  使用用 Reactor 架构实现多人多房间对局。
